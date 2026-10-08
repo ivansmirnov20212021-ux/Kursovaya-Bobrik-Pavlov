@@ -1,0 +1,32 @@
+﻿<Window x:Class="kursovaia.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Snake Game" Height="438" Width="415"
+        KeyDown="Window_KeyDown">
+    <Grid>
+        <Canvas x:Name="GameCanvas" Background="Black"/>
+
+        <StackPanel x:Name="StartPanel" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="Выбери уровень сложности" FontSize="18" Foreground="White" 
+                       HorizontalAlignment="Center" Margin="0,0,0,10"/>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
+                <Button Content="Легко" Width="100" Height="40" Margin="5" FontSize="16" 
+                    Click="EasyButton_Click"/>
+
+                <Button Content="Средне" Width="100" Height="40" Margin="5" FontSize="16" 
+                    Click="MediumButton_Click"/>
+
+                <Button Content="Сложно" Width="100" Height="40" Margin="5" FontSize="16" 
+                    Click="HardButton_Click"/>
+
+            </StackPanel>
+            <TextBlock Text="Режим игры:" Foreground="White" FontSize="18" HorizontalAlignment="Center" Margin="0,20,0,10"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="Классический" Width="140" Height="40" Margin="5" FontSize="16" Click="ClassicMode_Click"/>
+                <Button Content="С препятствиями" Width="140" Height="40" Margin="5" FontSize="16" Click="HardMode_Click"/>
+            </StackPanel>
+            <TextBlock x:Name="SelectedInfo" Text="" Foreground="Yellow" FontSize="16" HorizontalAlignment="Center" Margin="0,20,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>

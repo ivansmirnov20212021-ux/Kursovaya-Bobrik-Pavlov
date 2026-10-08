@@ -1,0 +1,40 @@
+C:\Users\Admin\source\repos\kursovaia\kursovaia\bin\Debug\net8.0-windows\kursovaia.exe
+C:\Users\Admin\source\repos\kursovaia\kursovaia\bin\Debug\net8.0-windows\kursovaia.deps.json
+C:\Users\Admin\source\repos\kursovaia\kursovaia\bin\Debug\net8.0-windows\kursovaia.runtimeconfig.json
+C:\Users\Admin\source\repos\kursovaia\kursovaia\bin\Debug\net8.0-windows\kursovaia.dll
+C:\Users\Admin\source\repos\kursovaia\kursovaia\bin\Debug\net8.0-windows\kursovaia.pdb
+C:\Users\Admin\source\repos\kursovaia\kursovaia\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Admin\source\repos\kursovaia\kursovaia\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Admin\source\repos\kursovaia\kursovaia\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Admin\source\repos\kursovaia\kursovaia\obj\Debug\net8.0-windows\kursovaia_MarkupCompile.cache
+C:\Users\Admin\source\repos\kursovaia\kursovaia\obj\Debug\net8.0-windows\kursovaia.g.resources
+C:\Users\Admin\source\repos\kursovaia\kursovaia\obj\Debug\net8.0-windows\kursovaia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\kursovaia\kursovaia\obj\Debug\net8.0-windows\kursovaia.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\kursovaia\kursovaia\obj\Debug\net8.0-windows\kursovaia.AssemblyInfo.cs
+C:\Users\Admin\source\repos\kursovaia\kursovaia\obj\Debug\net8.0-windows\kursovaia.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\kursovaia\kursovaia\obj\Debug\net8.0-windows\kursovaia.sourcelink.json
+C:\Users\Admin\source\repos\kursovaia\kursovaia\obj\Debug\net8.0-windows\kursovaia.dll
+C:\Users\Admin\source\repos\kursovaia\kursovaia\obj\Debug\net8.0-windows\refint\kursovaia.dll
+C:\Users\Admin\source\repos\kursovaia\kursovaia\obj\Debug\net8.0-windows\kursovaia.pdb
+C:\Users\Admin\source\repos\kursovaia\kursovaia\obj\Debug\net8.0-windows\kursovaia.genruntimeconfig.cache
+C:\Users\Admin\source\repos\kursovaia\kursovaia\obj\Debug\net8.0-windows\ref\kursovaia.dll
+C:\Users\SAPR\Desktop\Новая папка (2)\kursovaia\bin\Debug\net8.0-windows\kursovaia.exe
+C:\Users\SAPR\Desktop\Новая папка (2)\kursovaia\bin\Debug\net8.0-windows\kursovaia.deps.json
+C:\Users\SAPR\Desktop\Новая папка (2)\kursovaia\bin\Debug\net8.0-windows\kursovaia.runtimeconfig.json
+C:\Users\SAPR\Desktop\Новая папка (2)\kursovaia\bin\Debug\net8.0-windows\kursovaia.dll
+C:\Users\SAPR\Desktop\Новая папка (2)\kursovaia\bin\Debug\net8.0-windows\kursovaia.pdb
+C:\Users\SAPR\Desktop\Новая папка (2)\kursovaia\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\SAPR\Desktop\Новая папка (2)\kursovaia\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\SAPR\Desktop\Новая папка (2)\kursovaia\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\SAPR\Desktop\Новая папка (2)\kursovaia\obj\Debug\net8.0-windows\kursovaia_MarkupCompile.cache
+C:\Users\SAPR\Desktop\Новая папка (2)\kursovaia\obj\Debug\net8.0-windows\kursovaia.g.resources
+C:\Users\SAPR\Desktop\Новая папка (2)\kursovaia\obj\Debug\net8.0-windows\kursovaia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAPR\Desktop\Новая папка (2)\kursovaia\obj\Debug\net8.0-windows\kursovaia.AssemblyInfoInputs.cache
+C:\Users\SAPR\Desktop\Новая папка (2)\kursovaia\obj\Debug\net8.0-windows\kursovaia.AssemblyInfo.cs
+C:\Users\SAPR\Desktop\Новая папка (2)\kursovaia\obj\Debug\net8.0-windows\kursovaia.csproj.CoreCompileInputs.cache
+C:\Users\SAPR\Desktop\Новая папка (2)\kursovaia\obj\Debug\net8.0-windows\kursovaia.dll
+C:\Users\SAPR\Desktop\Новая папка (2)\kursovaia\obj\Debug\net8.0-windows\refint\kursovaia.dll
+C:\Users\SAPR\Desktop\Новая папка (2)\kursovaia\obj\Debug\net8.0-windows\kursovaia.pdb
+C:\Users\SAPR\Desktop\Новая папка (2)\kursovaia\obj\Debug\net8.0-windows\kursovaia.genruntimeconfig.cache
+C:\Users\SAPR\Desktop\Новая папка (2)\kursovaia\obj\Debug\net8.0-windows\ref\kursovaia.dll
+C:\Users\SAPR\Desktop\Новая папка (2)\kursovaia\obj\Debug\net8.0-windows\kursovaia.csproj.Up2Date

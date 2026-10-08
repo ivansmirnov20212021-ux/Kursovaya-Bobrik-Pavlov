@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "kursovaia.sln",
+    "projects": [
+      "kursovaia\\kursovaia.csproj"
+    ]
+  }
+}
